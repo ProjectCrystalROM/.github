@@ -1,159 +1,187 @@
 # 💎 Project Crystal
 
-### Even the forgotten deserve a chance to shine.
+### Even the fallen deserve a chance to rise.
 
 *We are the Crystal Gems. And we're here to save your phone.*
 
 ---
 
-## 💜 A Gem Doesn't Have to Be Perfect to Be Worth Something
+## 💜 Fallen Doesn't Mean Finished
 
-Some devices are abandoned because they're old. Others because they're underpowered, difficult to maintain, or simply no longer profitable to support.
+Some things fall from grace.
 
-They're labeled obsolete, forgotten, and eventually discarded.
+Sometimes they fail. Sometimes they disappoint. Sometimes the world changes around them, and what was once celebrated becomes unwanted.
 
-**We don't think that makes them worthless.**
+Sometimes they're simply judged unworthy of another chance.
 
-Welcome to **Project Crystal**, an independent, community-driven Android development initiative inspired by *Steven Universe* and its message that worth isn't determined by perfection, origins, or what others expect you to become.
+**We reject the idea that a fall must be the end of the story.**
 
-Our emblem is a **cracked Amethyst gemstone**.
+Welcome to **Project Crystal**, an independent Android development initiative inspired by *Steven Universe*, the Crystal Gems, and the belief that worth is not determined by perfection, reputation, or the expectations of others.
 
-Not because we believe broken things need to be made perfect, but because even something cracked, neglected, or dismissed can still be beautiful, capable, and deserving of another chance.
+Our emblem is a cracked Amethyst.
 
-**The cracks are part of its story. Not the end of it.**
+Not a flawless gemstone. Not something untouched by hardship.
 
-## 🌟 What We Believe
+Something that has endured damage and still has the capacity to shine.
 
-In *Steven Universe*, the Crystal Gems are anything but perfect.
+**A crack is not a verdict.**
 
-They're different. They're complicated. Some were made for purposes they never chose. Others were told they weren't good enough.
+## 🌟 The Right to Become Something More
 
-But what makes them special isn't their perfection.
+The Crystal Gems weren't defined by what Homeworld expected them to be.
 
-It's their willingness to grow, protect what matters, and define their own futures.
+They questioned their assigned purposes, rejected the roles imposed upon them, and chose their own paths.
 
-We think technology deserves a little of that same consideration.
+They weren't perfect heroes. They made mistakes. They carried regrets. They changed.
 
-A phone doesn't become useless simply because its manufacturer stops releasing updates. An old kernel isn't automatically beyond repair. And a device that struggles with modern software might still have years of usefulness ahead of it.
+And they kept going.
 
-Sometimes it takes patience.
+That's the spirit behind Project Crystal.
 
-Sometimes it takes creativity.
+We work with devices that have fallen out of favor. Devices dismissed as obsolete, unsupported, or too troublesome to maintain.
 
-And sometimes it takes a particularly stubborn developer staring at 2,000 merge conflicts and declaring:
+But a manufacturer's decision to abandon a product doesn't mean the hardware has lost its potential.
 
-**"I REFUSE TO ACCEPT THIS, YOU CLOD!"**
+An aging Android device doesn't need to become something it was never designed to be.
+
+Sometimes it simply needs the opportunity to become the best version of what it already is.
+
+**We don't believe in perfection. We believe in possibility.**
 
 ## 🔧 Our Mission
 
-Project Crystal focuses on preserving and extending the usefulness of aging Android devices through:
+Project Crystal exists to extend the useful life of aging Android hardware through open-source development.
 
-- **Custom ROM development** — Bringing alternative Android distributions to hardware that manufacturers and development communities have left behind.
-- **Kernel maintenance** — Backporting fixes, updating legacy kernels, and preserving hardware-specific functionality.
-- **Hardware restoration** — Repairing software support for cameras, cellular radios, GPS, sensors, and other components that deserve to keep working.
-- **Best-effort security maintenance** — Investigating and backporting applicable security fixes while documenting what can and cannot be addressed.
-- **Open-source preservation** — Publishing device trees, kernel sources, patches, and technical discoveries so others can continue the work.
+Our work includes:
 
-We don't believe newer always means better.
+- **Custom ROM development** — Maintaining and adapting Android distributions for devices left behind by their manufacturers.
+- **Kernel engineering** — Updating legacy kernels, backporting fixes, and preserving device-specific hardware support.
+- **Hardware restoration** — Repairing software support for cellular connectivity, cameras, GPS, Wi-Fi, and other essential functions.
+- **Security maintenance** — Investigating applicable vulnerabilities and performing best-effort backports without exaggerating the resulting protection.
+- **Source preservation** — Publishing device trees, patches, technical findings, and development history for anyone who wishes to continue the work.
 
-Sometimes a carefully maintained older Android version is more useful than a newer version that barely runs.
+We value stability over impressive version numbers.
 
-**Functionality matters. Stability matters. Honesty matters.**
+We value transparency over empty promises.
 
-And above all, the people still using these devices matter.
+And we value working hardware over arbitrary definitions of obsolescence.
 
-## 💚 Peridot's Corner: An Era of Technical Stubbornness
+## 💚 Peridot's Log: Defying Expectations
 
-Let's establish something.
+**ATTENTION, CLODS.**
 
-**OBSOLESCENCE IS NOT AN ACCEPTABLE EXCUSE FOR POOR ENGINEERING, CLODS.**
+Apparently, certain individuals believe that because a device is old, unsupported, or difficult to maintain, it should simply be discarded.
 
-At Project Crystal, we have a particular fondness for devices that everyone else has given up on.
+**THIS IS AN UNACCEPTABLE CONCLUSION.**
 
-The ones with undocumented hardware quirks.
+A decade-old chipset does not frighten us.
 
-The ones with ancient proprietary blobs.
+Neither does an ancient Linux kernel.
 
-The ones whose kernels haven't seen an upstream update in years.
+Nor a proprietary hardware abstraction layer held together by undocumented Qualcomm behavior and an inexplicably missing XML file.
 
-The ones somebody on a forum confidently declared impossible to support.
+Will everything work?
 
-*Especially those.*
+Not necessarily.
 
-Because sometimes the difference between impossible and possible is a missing XML file, a carefully adapted driver, or someone willing to spend another evening staring at kernel logs.
+Will every experiment succeed?
 
-We cannot promise every experiment will succeed.
+Absolutely not.
 
-But we can promise that **"nobody bothered to try" is not an answer we're particularly fond of.**
+But failure is information, not a final judgment.
 
-## 🌍 Protecting More Than Just Hardware
+And being told something cannot be done is an excellent reason to investigate whether that's actually true.
 
-Extending the life of existing technology is also a small act of environmental responsibility.
+**WE WILL DETERMINE ITS LIMITATIONS OURSELVES, THANK YOU VERY MUCH.**
 
-Electronic waste doesn't disappear when a manufacturer stops providing updates. And not everyone can afford—or wants—to replace a perfectly functional device every few years.
+## 🪽 The Meaning of a Second Chance
 
-We believe in repair, reuse, and making the most of what already exists.
+A fallen angel is often imagined as something cast out, stripped of its former place, and condemned to be remembered only for its fall.
 
-Not every device can be saved.
+We see another possibility in that imagery.
 
-Not every limitation can be overcome.
+**Falling is an event. It doesn't have to become an identity.**
 
-But every device that remains useful is one less device that needs to be discarded prematurely.
+That doesn't mean mistakes don't matter. It doesn't mean consequences disappear, or that every failure can be undone.
 
-**Earth is worth protecting. So are the things we've made while living on it.**
+It means the future shouldn't automatically be surrendered to the past.
 
-## 🛡️ Honesty Is Part of the Mission
+For technology, that philosophy is simple:
 
-Project Crystal is an experimental development initiative, not a commercial support organization.
+A discontinued device can still be useful.
 
-Our work may involve outdated Android versions, legacy Linux kernels, and proprietary firmware that can no longer receive vendor security updates.
+An abandoned codebase can still be improved.
 
-We pursue applicable security fixes wherever feasible, but **partial security backports do not constitute complete security coverage or certification**.
+A failed experiment can still teach us something.
 
-We won't claim a device is fully secure simply because we've patched some vulnerabilities.
+And something once dismissed as worthless can still have a purpose.
 
-We won't promise that every build is stable.
+**We aren't here to erase the cracks. We're here to see what can still shine through them.**
 
-And we won't disguise unresolved problems behind impressive version numbers.
+## 🌍 A Different Kind of Preservation
 
-**A second chance should be built on honesty, not false promises.**
+Electronic waste is a consequence of a world that too often treats replacement as easier than repair.
 
-## ⚠️ Important Disclaimer
+We don't expect every device to last forever.
 
-Project Crystal is an independent fan-inspired open-source development project.
+But we believe the decision to retire functioning hardware should belong to its owner whenever reasonably possible, not exclusively to the company that manufactured it.
 
-*Steven Universe*, the Crystal Gems, Peridot, Amethyst, and related characters and concepts belong to their respective rights holders.
+Extending the life of existing technology is one small way to challenge unnecessary waste.
 
-**Project Crystal is not affiliated with, sponsored by, approved by, or endorsed by Rebecca Sugar, Cartoon Network, Warner Bros. Discovery, or any associated rights holders.**
+It's also a way to keep older, affordable devices accessible to people who still need them.
 
-References to *Steven Universe* are expressions of appreciation and creative inspiration, not claims of official association.
+Not every second chance changes the world.
 
-All software is provided on a best-effort, experimental basis. Flashing custom firmware carries risks, including data loss, hardware malfunction, and device failure. Users are responsible for understanding those risks and maintaining appropriate backups.
+**That doesn't make it meaningless.**
 
-## 💎 Our Promise
+## 🛡️ Our Commitment to Honesty
 
-We won't save every device.
+Project Crystal is experimental.
 
-We won't fix every bug.
+Our software may depend on outdated Android versions, legacy kernels, and proprietary components that can no longer receive official updates.
 
-We won't eliminate every vulnerability.
+We make best-effort improvements, including security backports where feasible, but we do not claim that these efforts provide complete modern security coverage.
 
-And we certainly won't win every argument with a decade-old Qualcomm chipset.
+We will document known limitations, unresolved issues, and the risks associated with our work.
 
-But we believe there's value in trying.
+A second chance is not a guarantee of perfection.
 
-Because a crack doesn't erase a gem's beauty.
+And we would rather acknowledge a limitation than conceal it.
 
-Because being forgotten doesn't mean being worthless.
+## ⚠️ Independent Project Disclaimer
 
-And because sometimes all it takes to discover what something can become is someone willing to give it another chance.
+Project Crystal is an independent, fan-inspired open-source development initiative.
+
+*Steven Universe* and its associated characters, concepts, and trademarks belong to their respective rights holders.
+
+Project Crystal is not affiliated with, sponsored by, approved by, or endorsed by Rebecca Sugar, Cartoon Network, Warner Bros. Discovery, or any associated rights holders.
+
+All software is provided on an experimental, best-effort basis. Installing custom firmware may result in data loss, device instability, or hardware failure. Users should understand the risks and maintain appropriate backups.
 
 ---
 
-### 💜 Project Crystal
+## 💎 Our Philosophy
 
-**Even the forgotten deserve a chance to shine.**
+We cannot promise to save everything.
+
+Some devices will remain limited.
+
+Some problems will remain unsolved.
+
+Some experiments will fail.
+
+But none of that means the attempt was worthless.
+
+Because being cast aside does not erase potential.
+
+Because imperfection does not eliminate value.
+
+Because a fall does not have to define everything that follows.
+
+And because even a cracked gem can still catch the light.
+
+### Even the fallen deserve a chance to rise.
 
 *Made of love, source code, and an unreasonable number of merge conflicts.*
 
-**Believe in Steven. Trust the Gems. Verify the checksums.** 💚
+**Believe in Steven. Trust the Gems. Verify the checksums.** 💜
